@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">jetPack</string>
+    <string name="AddToListActivity" />
+    <string name="CheckboxCalculatorActivity" />
+    <string name="NumSumActivity" />
+    <string name="FruitCollectionActivity" />
+    <string name="calculator_activity_label" />
+    <string name="jetPack" />
+</resources>
